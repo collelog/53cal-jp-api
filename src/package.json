@@ -1,0 +1,17 @@
+{
+  "name": "53cal-jp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "53cal-jp-scraper": "^0.1.1",
+    "dayjs": "^1.10.4",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1"
+  }
+}
